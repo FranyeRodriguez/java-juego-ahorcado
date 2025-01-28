@@ -11,4 +11,4 @@ Hola, hice un juego de ahorcado en JAVA donde uno de ir colocando letra a letra 
 5. Clases String y sus métodos valueOf , lenth(), charAt()
 6. clase Character  y sus metodo toLowerCase 
 7. Estructura de control condicional
-[link a mi LinkedIn](Franyelyn Rodriguez)
+[link a mi LinkedIn](https://www.linkedin.com/in/franyelyn-rodriguez-555b7824b/)
